@@ -1,6 +1,6 @@
 # Quora_Question_Pairs
 
-Quora Question Pairs is an NLP project that aims to identify duplicate questions on the Quora platform. The project involves the following steps:
+Quora Question Pairs is an NLP project that aims to identify duplicate questions on the Quora platform. 
 
 
 
