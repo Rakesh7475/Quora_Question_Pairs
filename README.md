@@ -15,3 +15,9 @@ Model evaluation: Testing the accuracy and performance of the model on a separat
 Deployment: Deploying the model in a production environment, such as a web application or API, to provide real-time predictions.
 
 The Quora Question Pairs project is valuable because it helps to improve the quality of questions on the Quora platform by identifying duplicate questions and reducing redundancy. It also helps to improve the user experience by providing more relevant and diverse content.
+
+Text Preprocessing done using Bag of words (BOW) techique
+
+Got the accuracy score of 0.77 using Random Forest Classifier ML Algorithm
+
+Got Same accuracy score i.e 0.77 using XGBClassifier ML Algorithm
