@@ -12,6 +12,8 @@ To tackle this natural language processing problem by applying advanced techniqu
 
 Dataset Link - https://www.kaggle.com/c/quora-question-pairs
 
+Dataset size = (404290, 6)
+
 Text Preprocessing done using Bag of words (BOW) techique
 
 Got the accuracy score of 0.77 using Random Forest Classifier ML Algorithm
